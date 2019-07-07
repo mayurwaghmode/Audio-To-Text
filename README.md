@@ -6,5 +6,4 @@ install all requirements using command
 pip install requirement_name
 
 Procedure to use:
-Register your account
-Login to use the web app.
+Register your account and Login to use the web app.
